@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'dbe6b9fe47244464b1d3832969426f9e',
+  rootNotionPageId: '919c6b7b02bf45bb80e4714e27143848',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wzulfikar',
-  domain: process.env.NEXT_PUBLIC_DOMAIN || 'wzulfikar.com',
-  author: 'Wildan Zulfikar',
+  name: 'Aman Sharma',
+  domain: process.env.NEXT_PUBLIC_DOMAIN || 'Amansharma.dev',
+  author: 'Aman Sharma',
 
   // Use custom font family (leave empty to use default font)
   fontFamily: 'Work Sans',
@@ -20,9 +20,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'wzulfikar',
-  github: 'wzulfikar',
-  linkedin: 'wildan-zulfikar-30a30a100',
+  twitter: 'amanintech',
+  github: 'amanintech',
+  linkedin: 'amanintech',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
