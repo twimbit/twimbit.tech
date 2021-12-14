@@ -7,22 +7,22 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Aman Sharma',
-  domain: process.env.NEXT_PUBLIC_DOMAIN || 'Amansharma.dev',
-  author: 'Aman Sharma',
+  name: 'tech@twimbit',
+  domain: process.env.NEXT_PUBLIC_DOMAIN || 'twimbit.tech',
+  author: 'twimbit',
 
   // Use custom font family (leave empty to use default font)
-  fontFamily: 'Work Sans',
+  fontFamily: 'Nunito',
 
   // open graph metadata (optional)
-  description: 'Just another blog',
-  socialImageTitle: 'wzulfikar.com',
+  description: 'Where all the amazing tech at twimbit is built',
+  socialImageTitle: 'twimbit.com',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'amanintech',
-  github: 'amanintech',
-  linkedin: 'amanintech',
+  twitter: 'twimbitHq',
+  github: 'twimbit',
+  linkedin: 'twimbit',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
